@@ -15,6 +15,7 @@
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Fabio-ui5" height="30" width="40" src="https://openui5.org/5bdd288371ed8100415f04563acc8dfe/phenix_blue.svg">
-  <img align="center" alt="Fabio-ui5" height="30" width="40" src="https://logodix.com/logo/2063671.png">
+  <img align="center" alt="Fabio-fiori" height="30" width="40" src="https://logodix.com/logo/2063671.png">
+    <img align="center" alt="Fabio-kafka" height="30" width="60" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
 
 </div>
