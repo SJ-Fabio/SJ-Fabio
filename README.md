@@ -1,4 +1,4 @@
-### Olá! Aqui é o Fábio Júnior!
+### Olá!
 
 <div align="center">
   <a href="https://github.com/SJ-Fabio">
